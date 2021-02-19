@@ -54,7 +54,7 @@ This command disallows any of the users to workplace join devices.
 
 ### Example 5: Allow all users to Azure Active Directory join devices
 ```
-PS C:\> Set-MsolDeviceRegistratioinServicePolicy -AllowedToAzureAdJoin All
+PS C:\> Set-MsolDeviceRegistrationServicePolicy -AllowedToAzureAdJoin All
 ```
 
 This command allows all the users to Azure Active Directory join devices.
