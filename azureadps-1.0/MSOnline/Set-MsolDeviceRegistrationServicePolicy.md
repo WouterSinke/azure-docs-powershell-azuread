@@ -47,7 +47,7 @@ This command allows all the users to workplace join devices.
 
 ### Example 4: Disallow all users to workplace join devices
 ```
-PS C:\> Set-MsolDeviceRegistratioinServicePolicy -AllowedToWorkplaceJoin None
+PS C:\> Set-MsolDeviceRegistrationServicePolicy -AllowedToWorkplaceJoin None
 ```
 
 This command disallows any of the users to workplace join devices.
